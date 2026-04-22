@@ -1,0 +1,9 @@
+insightface
+opencv-python
+scikit-learn
+psycopg2-binary
+numpy
+onnxruntime
+fastapi
+uvicorn
+python-multipart

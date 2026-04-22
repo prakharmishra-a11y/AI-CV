@@ -1,0 +1,25 @@
+{
+  "stream_id": "stream_20260422_133246",
+  "source": "/home/Vinny/Downloads/20260422174940448 (video-converter.com).mp4",
+  "total_segments": 2,
+  "segments": [
+    {
+      "person_name": "Unknown",
+      "person_id": null,
+      "spoke_from": "2025-01-01T00:00:07.160000+00:00",
+      "spoke_until": "2025-01-01T00:04:59.960000+00:00",
+      "duration_seconds": 292,
+      "avg_confidence": 0.1627,
+      "detection_count": 98
+    },
+    {
+      "person_name": "Unknown",
+      "person_id": null,
+      "spoke_from": "2025-01-01T00:05:14.360000+00:00",
+      "spoke_until": "2025-01-01T00:09:49.160000+00:00",
+      "duration_seconds": 274,
+      "avg_confidence": 0.1799,
+      "detection_count": 52
+    }
+  ]
+}
